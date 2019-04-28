@@ -383,11 +383,16 @@ input {
 .search, .menu, .social {
     text-align: center;
 }
+.row.subscribe {
+    height:4.5em;
+}
 .col.subscribe {
     text-align: center;
+    padding-top: 0;
 }
 .col.subscribe-form {
     padding-left: 60px;
+    padding-top:0;
 }
 p {
     font-size: 1em;
