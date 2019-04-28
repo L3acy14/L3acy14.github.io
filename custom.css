@@ -393,6 +393,12 @@ p {
     font-size: 1em;
     padding-top: 20px;
 }
+h7 {
+    color: black;
+font-size: 1em;
+font-style: oblique;
+font-weight: 900;
+}
 }
 
 
